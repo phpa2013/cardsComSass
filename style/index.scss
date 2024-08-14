@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    
+}
+
+body{
+    background-image: url('../assets/background-desktop.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 0
+    
+    
+}
+
+@import './navBar';
+
+// .title-pagina {
+//     text-align: center;
+//     text-transform: uppercase;
+//     margin: .25em   0 .25em 0;
+
+// }
+@import './container-cards'
